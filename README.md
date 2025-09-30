@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 GHApex - Static Landing Page
 
-This is a lightweight static recreation of the GHApex landing page (inspired by https://ghapex.lovable.app/).
+This is a lightweight static recreation of the GHApex landing page.
 
 Files created:
 - `index.html`: Main static page
